@@ -37,7 +37,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: kattis82/pipeline-demo:dev
+          tags: kattis82/pipeline-demo:1.0.0
 
 
 
